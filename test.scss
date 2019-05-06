@@ -1,0 +1,7 @@
+$master-background-color:    #f07c05;
+$master-title-color:          #f07c05;
+
+body {
+  background: $master-background-color image_url("white-bg.jpg") repeat-y 50% 0;
+  color: $master-title-color;
+}
