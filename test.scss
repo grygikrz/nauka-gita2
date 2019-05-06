@@ -1,7 +1,16 @@
+<<<<<<< HEAD
 $master-background-color:    #f07c05;
 $master-title-color:          #f07c05;
 
 body {
   background: $master-background-color image_url("white-bg.jpg") repeat-y 50% 0;
   color: $master-title-color;
+=======
+$task-4-background-color:    #f07c05;
+$task-4-title-color:          #f07c05;
+
+body {
+  background: $task-4-background-color image_url("white-bg.jpg") repeat-y 50% 0;
+  color: $task-4-title-color;
+>>>>>>> task-4
 }
