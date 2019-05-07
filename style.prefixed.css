@@ -2,6 +2,8 @@
     box-sizing: border-box;
     font-family: 'Lobster', sans-serif;
     color:white;
+    display:-ms-flexbox;
+    display:flex;
 }
 
 

@@ -1,0 +1,25 @@
+{
+  "name": "nauka-gita2",
+  "version": "1.0.0",
+  "description": "https://grygikrz.github.io/nauka-gita2/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grygikrz/nauka-gita2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/grygikrz/nauka-gita2/issues"
+  },
+  "homepage": "https://github.com/grygikrz/nauka-gita2#readme",
+  "devDependencies": {
+    "autoprefixer-cli": "^1.0.0",
+    "browser-sync": "^2.26.5",
+    "nu-html-checker": "^0.1.0"
+  }
+}
